@@ -1,4 +1,5 @@
 let score = 33
-let somenumber = Number(score)
+let negScore = -score
+// let somenumber = Number(score)
 
-console.log(typeof somenumber);
+console.log(negScore);
